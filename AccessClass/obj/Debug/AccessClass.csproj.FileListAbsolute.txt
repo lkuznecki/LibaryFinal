@@ -1,0 +1,6 @@
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\bin\Debug\AccessClass.dll
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\bin\Debug\AccessClass.pdb
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\obj\Debug\AccessClass.csproj.AssemblyReference.cache
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\obj\Debug\AccessClass.csproj.CoreCompileInputs.cache
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\obj\Debug\AccessClass.dll
+C:\Users\w60060\Desktop\Koniec semestrui\LibaryFinal\AccessClass\obj\Debug\AccessClass.pdb
